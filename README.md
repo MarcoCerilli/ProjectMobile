@@ -14,4 +14,5 @@ retrieve them later. In other words, JPA manages the mapping between Java object
 JPA was introduced to provide a standardized way to access and manage persistent data,
 by providing a common interface for data management operations (CRUD: Create, Read, Update, Delete).
 
-![image](https://github.com/user-attachments/assets/78c11286-d4ff-4b25-8508-aa986a3ea338)
+![image](https://github.com/user-attachments/assets/78c11286-d4ff-4b25-8508-aa986a3ea338) ![image](https://github.com/user-attachments/assets/199cc0e9-a654-411e-8b6d-6eb456cf5feb)
+
