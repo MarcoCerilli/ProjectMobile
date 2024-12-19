@@ -13,6 +13,5 @@ Persistence, in this context, refers to the ability of an application to save th
 retrieve them later. In other words, JPA manages the mapping between Java objects and relational database tables.
 JPA was introduced to provide a standardized way to access and manage persistent data,
 by providing a common interface for data management operations (CRUD: Create, Read, Update, Delete).
-
-![image](https://github.com/user-attachments/assets/78c11286-d4ff-4b25-8508-aa986a3ea338)      ![image](https://github.com/user-attachments/assets/199cc0e9-a654-411e-8b6d-6eb456cf5feb)
+![image](https://github.com/user-attachments/assets/f297f4aa-a5b5-4b29-861c-f17e62c4bff0)  ![image](https://github.com/user-attachments/assets/199cc0e9-a654-411e-8b6d-6eb456cf5feb)
 
