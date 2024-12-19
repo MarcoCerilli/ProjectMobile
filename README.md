@@ -16,6 +16,8 @@ by providing a common interface for data management operations (CRUD: Create, Re
 
   
   ![image](https://github.com/user-attachments/assets/26955a01-24b4-4caa-8e66-a8f3573f922b)
+  ![image](https://github.com/user-attachments/assets/817fff41-d96e-4002-b3c8-502f35ae7125)
+
 
 
   
