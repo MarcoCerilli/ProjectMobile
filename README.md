@@ -15,7 +15,8 @@ JPA was introduced to provide a standardized way to access and manage persistent
 by providing a common interface for data management operations (CRUD: Create, Read, Update, Delete).
 
   
-   ![image](https://github.com/user-attachments/assets/efda68df-f53b-4741-bf61-72e9d2622bd7)
+  ![image](https://github.com/user-attachments/assets/dc22e192-157e-41c8-959b-e7d5c031e688)
+
 
   
   ![image](https://github.com/user-attachments/assets/199cc0e9-a654-411e-8b6d-6eb456cf5feb)
